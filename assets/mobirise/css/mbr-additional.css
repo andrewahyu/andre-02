@@ -6209,6 +6209,48 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-tNXcexyJAR {
+  padding-top: 10rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-tNXcexyJAR .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tNXcexyJAR .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tNXd3mikeM {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+.cid-tNXd3mikeM .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tNXd3mikeM .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tNXd3mikeM .video-wrapper iframe {
+  width: 100%;
+}
+.cid-tNXd3mikeM .mbr-section-title,
+.cid-tNXd3mikeM .mbr-section-subtitle,
+.cid-tNXd3mikeM .mbr-text {
+  text-align: center;
+}
 .cid-tNExVbgSyj .navbar-dropdown {
   position: relative !important;
 }
